@@ -1,0 +1,22 @@
+
+
+body{
+    background: url(../img/Veleiro.jpg);
+}
+
+#content{
+    height: 100vh;
+}
+
+button[type="submit"]{
+    background-color: #092d42;
+    border: none;
+}
+
+button[type="reset"]{
+    background-color: #4500cf;
+    border: none;
+    color: white;
+}
+
+
